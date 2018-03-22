@@ -1,0 +1,8 @@
+{
+    "name": "github-dependency",
+    "description": "GitHub dependency testing",
+    "version": "0.0.1",    
+    "main": "index.js",
+    "author": "fruiz",
+    "license": "ISC"
+}
